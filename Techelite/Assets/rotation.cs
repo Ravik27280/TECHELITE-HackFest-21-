@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class rotation : MonoBehaviour
 {
-    float speed = 5.0f;
+    float speed = 10.0f;
     void Update()
     {
         transform.Rotate(Vector3.up*speed*Time.deltaTime);
