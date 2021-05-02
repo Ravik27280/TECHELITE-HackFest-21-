@@ -13,4 +13,6 @@ The user can select the products he/she likes and try them on virtually.<br/>
 The user can add the products to the cart and proceed further.<br/>
 The products will be added to the main cart of the application.<br/>
 
+Video - https://youtu.be/pi6HpLO5PT4
+
 ![screen shots](https://github.com/Ravik27280/TECHELITE-HackFest-21-/blob/main/Screenshot%20(13).png)
